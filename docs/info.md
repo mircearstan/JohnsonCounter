@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The 8-bit Johnson counter is the simplest possible state machine with 8-bit states as it uses just 8 flip-flops and no other combinational gate. The output sequence is a Moebius sequence.
 
 ## How to test
 
-Explain how to use your project
+First reset then clock and check that the output sequence is a Moebius sequence.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Could connect the output to 8 LEDs to see the Moebius sequence in action
